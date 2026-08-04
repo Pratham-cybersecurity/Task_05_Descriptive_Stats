@@ -1,0 +1,505 @@
+date,opponent,number,player,pos,g,a,pts,sh,sog,gb,to,ct,dc,fps,fouls
+2024-02-10,Northwestern,1,"Adamson, Olivia",-,6,0,6,7,7,2,3,2,1,0-0,3
+2024-02-10,Northwestern,2,"Sweitzer, Delaney",GK,0,0,0,0,0,1,0,2,0,0-0,0
+2024-02-10,Northwestern,4,"Benoit, Kaci",-,0,0,0,0,0,2,0,1,0,0-0,0
+2024-02-10,Northwestern,5,"Muchnick, Emma",-,1,0,1,2,2,1,0,1,0,1-2,0
+2024-02-10,Northwestern,6,"Rowley, Payton",-,0,1,1,2,2,0,0,0,0,0-0,0
+2024-02-10,Northwestern,8,"Mashewske, Kate",-,0,0,0,0,0,0,0,0,3,0-0,2
+2024-02-10,Northwestern,12,"Goodale, Katie",-,0,0,0,0,0,2,1,3,4,0-0,3
+2024-02-10,Northwestern,15,"Smith, Natalie",-,3,1,4,5,4,0,1,0,2,1-3,3
+2024-02-10,Northwestern,16,"Vandiver, Coco",-,0,0,0,0,0,0,0,0,0,0-0,3
+2024-02-10,Northwestern,17,"Olsen, McKenzie",-,0,0,0,0,0,1,1,0,0,0-0,0
+2024-02-10,Northwestern,19,"Britton, Gracie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-10,Northwestern,20,"Rich, Mackenzie",-,0,0,0,1,0,0,0,0,0,0-0,0
+2024-02-10,Northwestern,24,"Tyrrell, Emma",-,1,0,1,3,2,1,3,1,0,0-1,2
+2024-02-10,Northwestern,30,"Clark, Superia",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-10,Northwestern,31,"Simkins, Hallie",-,0,0,0,0,0,1,1,0,0,0-0,4
+2024-02-10,Northwestern,33,"Caramelli, Joely",-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-02-10,Northwestern,35,"Sweitzer, Savannah",-,0,2,2,1,0,0,2,0,0,0-0,1
+2024-02-10,Northwestern,44,"Ward, Emma",-,2,3,5,4,3,1,1,1,0,0-1,0
+2024-02-10,Northwestern,45,"Chevarie, Bianca",-,0,0,0,0,0,0,0,1,0,0-0,0
+2024-02-10,Northwestern,49,"Baxter, Maddy",-,2,0,2,3,2,0,0,0,3,0-0,2
+2024-02-14,ARMY,0,"Guyette, Daniella",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-14,ARMY,1,"Adamson, Olivia",A,1,4,5,2,2,0,2,0,0,0-0,0
+2024-02-14,ARMY,2,"Sweitzer, Delaney",GK,0,0,0,0,0,1,0,1,0,0-0,0
+2024-02-14,ARMY,3,"Banks, Ryann",-,0,1,1,0,0,0,0,0,0,0-0,0
+2024-02-14,ARMY,4,"Benoit, Kaci",D,0,0,0,0,0,0,1,0,0,0-0,0
+2024-02-14,ARMY,5,"Muchnick, Emma",-,0,2,2,1,0,0,2,0,1,0-0,2
+2024-02-14,ARMY,6,"Rowley, Payton",-,4,0,4,6,5,2,1,0,0,0-1,0
+2024-02-14,ARMY,7,"Horvit, Ana",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-14,ARMY,8,"Mashewske, Kate",M,0,0,0,0,0,0,3,0,9,0-0,2
+2024-02-14,ARMY,9,"Basciano, Julia",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-14,ARMY,10,"Wooters, Faith",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-14,ARMY,12,"Goodale, Katie",D,0,0,0,0,0,3,0,1,1,0-0,5
+2024-02-14,ARMY,15,"Smith, Natalie",M,4,2,6,8,5,2,1,0,3,1-1,1
+2024-02-14,ARMY,16,"Vandiver, Coco",D,0,0,0,0,0,0,1,1,0,0-0,0
+2024-02-14,ARMY,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,2
+2024-02-14,ARMY,18,"Desimone, Carlie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-14,ARMY,19,"Britton, Gracie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-14,ARMY,20,"Rich, Mackenzie",-,0,0,0,0,0,1,0,1,0,0-0,1
+2024-02-14,ARMY,24,"Tyrrell, Emma",A,1,1,2,3,2,1,1,0,0,0-0,0
+2024-02-14,ARMY,25,"Blesi, Ella",-,0,0,0,0,0,0,0,0,1,0-0,1
+2024-02-14,ARMY,27,"Lahah, Izzy",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-14,ARMY,28,"Rode, Meghan",-,2,0,2,3,2,0,0,0,0,0-0,0
+2024-02-14,ARMY,30,"Clark, Superia",-,0,0,0,0,0,0,0,0,0,0-0,1
+2024-02-14,ARMY,31,"Simkins, Hallie",D,0,0,0,0,0,1,1,0,0,0-0,3
+2024-02-14,ARMY,33,"Caramelli, Joely",-,0,0,0,0,0,0,0,0,1,0-0,0
+2024-02-14,ARMY,34,"Bethea-Jones, Chloe",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-14,ARMY,35,"Sweitzer, Savannah",-,1,1,2,1,1,0,0,0,0,0-0,0
+2024-02-14,ARMY,36,"Johnston, Evan",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-14,ARMY,44,"Ward, Emma",A,3,2,5,5,4,0,1,0,0,0-0,0
+2024-02-14,ARMY,45,"Chevarie, Bianca",D,0,0,0,0,0,1,0,3,0,0-0,3
+2024-02-14,ARMY,49,"Baxter, Maddy",M,2,0,2,2,2,0,1,1,0,0-0,1
+2024-02-14,ARMY,77,"Call, Lauren",-,0,0,0,0,0,0,0,0,0,0-0,1
+2024-02-17,Maryland,1,"Adamson, Olivia",A,2,1,3,3,2,1,2,0,0,0-1,0
+2024-02-17,Maryland,2,"Sweitzer, Delaney",GK,0,0,0,0,0,5,0,1,0,0-0,0
+2024-02-17,Maryland,4,"Benoit, Kaci",D,0,0,0,0,0,0,0,0,2,0-0,1
+2024-02-17,Maryland,5,"Muchnick, Emma",-,0,0,0,1,1,0,0,0,1,0-0,1
+2024-02-17,Maryland,6,"Rowley, Payton",-,1,0,1,2,1,0,1,0,0,0-0,0
+2024-02-17,Maryland,8,"Mashewske, Kate",M,0,0,0,0,0,0,0,0,1,0-0,0
+2024-02-17,Maryland,12,"Goodale, Katie",D,0,0,0,0,0,5,0,3,0,0-0,1
+2024-02-17,Maryland,15,"Smith, Natalie",M,2,0,2,4,4,0,1,0,5,1-1,3
+2024-02-17,Maryland,16,"Vandiver, Coco",D,0,0,0,0,0,1,0,0,0,0-0,1
+2024-02-17,Maryland,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-17,Maryland,19,"Britton, Gracie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-17,Maryland,20,"Rich, Mackenzie",-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-02-17,Maryland,24,"Tyrrell, Emma",A,2,0,2,5,4,3,2,1,0,0-0,0
+2024-02-17,Maryland,31,"Simkins, Hallie",D,0,0,0,0,0,0,0,1,0,0-0,3
+2024-02-17,Maryland,33,"Caramelli, Joely",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-17,Maryland,35,"Sweitzer, Savannah",-,0,0,0,1,0,0,1,0,0,0-1,0
+2024-02-17,Maryland,44,"Ward, Emma",A,1,2,3,6,5,1,1,0,0,1-1,0
+2024-02-17,Maryland,45,"Chevarie, Bianca",D,0,0,0,0,0,1,0,0,0,0-0,2
+2024-02-17,Maryland,49,"Baxter, Maddy",M,0,0,0,2,0,0,1,2,3,0-0,1
+2024-02-17,Maryland,,Team,-,0,0,0,0,0,0,2,0,0,0-0,0
+2024-02-24,Notre Dame,1,"Adamson, Olivia",A,4,2,6,5,4,1,0,0,0,1-1,0
+2024-02-24,Notre Dame,2,"Sweitzer, Delaney",G,0,0,0,0,0,4,0,3,0,0-0,0
+2024-02-24,Notre Dame,4,"Benoit, Kaci",D,0,0,0,0,0,2,0,1,0,0-0,1
+2024-02-24,Notre Dame,5,"Muchnick, Emma",-,1,1,2,1,1,0,1,1,0,1-1,0
+2024-02-24,Notre Dame,6,"Rowley, Payton",-,0,0,0,1,0,0,1,0,0,0-0,0
+2024-02-24,Notre Dame,8,"Mashewske, Kate",M,0,0,0,1,1,0,0,0,10,0-0,0
+2024-02-24,Notre Dame,12,"Goodale, Katie",D,0,0,0,0,0,0,0,2,3,0-0,0
+2024-02-24,Notre Dame,15,"Smith, Natalie",M,4,0,4,5,5,0,1,1,2,2-2,0
+2024-02-24,Notre Dame,16,"Vandiver, Coco",D,0,0,0,0,0,1,0,0,0,0-0,1
+2024-02-24,Notre Dame,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-24,Notre Dame,18,"Desimone, Carlie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-02-24,Notre Dame,19,"Britton, Gracie",-,1,0,1,2,2,0,0,0,0,0-0,0
+2024-02-24,Notre Dame,20,"Rich, Mackenzie",-,0,0,0,0,0,1,1,0,0,0-0,0
+2024-02-24,Notre Dame,24,"Tyrrell, Emma",M,2,0,2,2,2,2,1,0,0,0-0,0
+2024-02-24,Notre Dame,28,"Rode, Meghan",-,2,1,3,2,2,0,1,0,0,0-0,0
+2024-02-24,Notre Dame,31,"Simkins, Hallie",D,0,0,0,0,0,0,1,0,0,0-0,0
+2024-02-24,Notre Dame,33,"Caramelli, Joely",-,0,0,0,1,0,1,0,1,0,0-0,0
+2024-02-24,Notre Dame,44,"Ward, Emma",A,0,3,3,2,1,0,3,0,0,0-1,0
+2024-02-24,Notre Dame,45,"Chevarie, Bianca",D,0,0,0,0,0,2,0,3,0,0-0,1
+2024-02-24,Notre Dame,49,"Baxter, Maddy",M,2,0,2,3,2,0,0,0,3,1-1,0
+2024-02-24,Notre Dame,,Team,-,0,0,0,0,0,0,3,0,0,0-0,0
+2024-03-02,Duke,1,"Adamson, Olivia",A,2,2,4,4,3,1,2,0,0,1-1,0
+2024-03-02,Duke,2,"Sweitzer, Delaney",GK,0,0,0,0,0,0,1,2,0,0-0,0
+2024-03-02,Duke,3,"Banks, Ryann",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-02,Duke,4,"Benoit, Kaci",D,1,0,1,1,1,2,0,1,1,0-0,0
+2024-03-02,Duke,5,"Muchnick, Emma",-,0,2,2,1,1,0,1,0,0,0-1,0
+2024-03-02,Duke,6,"Rowley, Payton",-,1,1,2,3,2,0,0,0,0,0-0,0
+2024-03-02,Duke,7,"Horvit, Ana",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-02,Duke,8,"Mashewske, Kate",M,0,0,0,0,0,0,1,0,11,0-0,0
+2024-03-02,Duke,9,"Basciano, Julia",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-02,Duke,10,"Wooters, Faith",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-02,Duke,12,"Goodale, Katie",D,0,0,0,0,0,5,0,4,3,0-0,3
+2024-03-02,Duke,15,"Smith, Natalie",M,1,0,1,3,2,0,1,0,1,0-0,1
+2024-03-02,Duke,16,"Vandiver, Coco",D,0,0,0,0,0,1,1,1,0,0-0,0
+2024-03-02,Duke,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-02,Duke,18,"Desimone, Carlie",-,0,0,0,0,0,0,2,0,0,0-0,0
+2024-03-02,Duke,19,"Britton, Gracie",-,0,0,0,1,0,0,2,0,0,0-0,0
+2024-03-02,Duke,20,"Rich, Mackenzie",-,0,0,0,1,1,1,1,1,0,0-0,0
+2024-03-02,Duke,24,"Tyrrell, Emma",A,5,0,5,9,7,0,0,0,1,0-1,0
+2024-03-02,Duke,25,"Blesi, Ella",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-02,Duke,27,"Lahah, Izzy",-,0,0,0,0,0,1,0,0,0,0-0,0
+2024-03-02,Duke,28,"Rode, Meghan",-,1,0,1,1,1,2,1,0,0,0-0,0
+2024-03-02,Duke,30,"Clark, Superia",-,1,0,1,1,1,0,0,0,1,0-0,1
+2024-03-02,Duke,31,"Simkins, Hallie",D,0,0,0,0,0,3,1,3,0,0-0,1
+2024-03-02,Duke,33,"Caramelli, Joely",-,1,0,1,2,2,1,0,2,0,0-0,0
+2024-03-02,Duke,34,"Bethea-Jones, Chloe",-,0,0,0,0,0,1,0,0,0,0-0,0
+2024-03-02,Duke,35,"Sweitzer, Savannah",-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-03-02,Duke,36,"Johnston, Evan",-,0,0,0,0,0,0,0,1,0,0-0,0
+2024-03-02,Duke,44,"Ward, Emma",A,1,0,1,4,2,0,1,0,0,0-0,0
+2024-03-02,Duke,45,"Chevarie, Bianca",D,0,0,0,0,0,1,0,0,1,0-0,1
+2024-03-02,Duke,49,"Baxter, Maddy",M,1,1,2,4,3,2,1,1,0,0-0,1
+2024-03-02,Duke,77,"Call, Lauren",-,0,0,0,0,0,0,0,0,1,0-0,0
+2024-03-02,Duke,,Team,-,0,0,0,0,0,0,0,0,0,0-0,2
+2024-03-05,Stony Brook,1,"Adamson, Olivia",A,2,2,4,5,2,1,2,1,0,1-1,1
+2024-03-05,Stony Brook,2,"Sweitzer, Delaney",GK,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-05,Stony Brook,4,"Benoit, Kaci",D,0,0,0,0,0,0,0,2,0,0-0,1
+2024-03-05,Stony Brook,5,"Muchnick, Emma",-,0,1,1,2,1,1,1,0,1,0-1,1
+2024-03-05,Stony Brook,6,"Rowley, Payton",-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-03-05,Stony Brook,8,"Mashewske, Kate",M,0,0,0,0,0,0,0,0,6,0-0,3
+2024-03-05,Stony Brook,12,"Goodale, Katie",D,0,0,0,0,0,0,0,2,2,0-0,3
+2024-03-05,Stony Brook,15,"Smith, Natalie",M,1,0,1,6,3,2,1,0,2,1-3,2
+2024-03-05,Stony Brook,16,"Vandiver, Coco",D,0,0,0,0,0,1,0,0,0,0-0,1
+2024-03-05,Stony Brook,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-05,Stony Brook,24,"Tyrrell, Emma",M,3,1,4,5,3,1,0,0,0,2-3,1
+2024-03-05,Stony Brook,28,"Rode, Meghan",-,1,0,1,1,1,1,1,0,0,0-0,0
+2024-03-05,Stony Brook,31,"Simkins, Hallie",D,0,0,0,0,0,0,0,0,0,0-0,2
+2024-03-05,Stony Brook,33,"Caramelli, Joely",-,0,0,0,0,0,1,2,2,0,0-0,2
+2024-03-05,Stony Brook,35,"Sweitzer, Savannah",-,2,0,2,2,2,0,0,0,0,0-0,0
+2024-03-05,Stony Brook,44,"Ward, Emma",A,2,2,4,3,2,0,4,1,0,1-1,0
+2024-03-05,Stony Brook,45,"Chevarie, Bianca",D,0,0,0,0,0,4,0,0,0,0-0,1
+2024-03-05,Stony Brook,49,"Baxter, Maddy",M,1,1,2,3,2,1,1,2,3,0-1,1
+2024-03-05,Stony Brook,,Team,-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-03-09,Virginia Tech,0,"Guyette, Daniella",-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-03-09,Virginia Tech,1,"Adamson, Olivia",A,3,0,3,6,5,1,1,1,0,1-2,0
+2024-03-09,Virginia Tech,2,"Sweitzer, Delaney",G,0,0,0,0,0,3,1,1,0,0-0,0
+2024-03-09,Virginia Tech,4,"Benoit, Kaci",D,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-09,Virginia Tech,5,"Muchnick, Emma",-,0,0,0,3,1,1,1,0,0,0-0,1
+2024-03-09,Virginia Tech,6,"Rowley, Payton",-,1,0,1,4,3,0,0,0,0,1-1,0
+2024-03-09,Virginia Tech,7,"Horvit, Ana",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-09,Virginia Tech,8,"Mashewske, Kate",M,0,0,0,0,0,0,2,0,11,0-0,2
+2024-03-09,Virginia Tech,9,"Basciano, Julia",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-09,Virginia Tech,12,"Goodale, Katie",D,0,0,0,0,0,4,1,5,2,0-0,0
+2024-03-09,Virginia Tech,15,"Smith, Natalie",M,2,1,3,3,3,0,3,1,0,1-1,3
+2024-03-09,Virginia Tech,16,"Vandiver, Coco",D,0,0,0,0,0,0,1,1,0,0-0,2
+2024-03-09,Virginia Tech,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,1
+2024-03-09,Virginia Tech,18,"Desimone, Carlie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-09,Virginia Tech,19,"Britton, Gracie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-09,Virginia Tech,24,"Tyrrell, Emma",M,0,0,0,3,2,2,0,1,0,0-2,0
+2024-03-09,Virginia Tech,25,"Blesi, Ella",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-09,Virginia Tech,27,"Lahah, Izzy",-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-03-09,Virginia Tech,28,"Rode, Meghan",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-09,Virginia Tech,30,"Clark, Superia",-,0,0,0,0,0,1,1,0,0,0-0,0
+2024-03-09,Virginia Tech,31,"Simkins, Hallie",D,0,0,0,0,0,1,0,0,0,0-0,2
+2024-03-09,Virginia Tech,33,"Caramelli, Joely",-,1,0,1,3,3,0,1,0,0,0-1,0
+2024-03-09,Virginia Tech,34,"Bethea-Jones, Chloe",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-09,Virginia Tech,35,"Sweitzer, Savannah",-,2,0,2,3,3,0,0,0,0,0-0,0
+2024-03-09,Virginia Tech,36,"Johnston, Evan",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-09,Virginia Tech,44,"Ward, Emma",A,3,3,6,3,3,1,3,0,0,0-0,2
+2024-03-09,Virginia Tech,45,"Chevarie, Bianca",D,0,0,0,0,0,1,0,1,0,0-0,1
+2024-03-09,Virginia Tech,49,"Baxter, Maddy",M,3,0,3,4,3,1,1,0,0,1-1,3
+2024-03-09,Virginia Tech,,Team,-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-03-16,North Carolina,1,"Adamson, Olivia",A,3,0,3,4,4,0,0,0,0,1-1,0
+2024-03-16,North Carolina,2,"Sweitzer, Delaney",GK,0,0,0,0,0,6,1,2,0,0-0,1
+2024-03-16,North Carolina,4,"Benoit, Kaci",D,0,0,0,0,0,1,0,1,0,0-0,0
+2024-03-16,North Carolina,5,"Muchnick, Emma",-,2,0,2,3,3,0,0,0,4,0-0,1
+2024-03-16,North Carolina,6,"Rowley, Payton",-,1,3,4,3,2,0,1,0,0,0-0,0
+2024-03-16,North Carolina,8,"Mashewske, Kate",M,0,0,0,0,0,0,1,0,4,0-0,0
+2024-03-16,North Carolina,12,"Goodale, Katie",D,0,0,0,0,0,0,1,1,5,0-0,2
+2024-03-16,North Carolina,15,"Smith, Natalie",M,4,0,4,8,5,0,1,1,4,1-2,0
+2024-03-16,North Carolina,16,"Vandiver, Coco",D,0,0,0,0,0,1,0,0,1,0-0,0
+2024-03-16,North Carolina,24,"Tyrrell, Emma",A,5,3,8,7,5,0,0,0,0,1-1,0
+2024-03-16,North Carolina,31,"Simkins, Hallie",D,0,0,0,0,0,4,0,6,0,0-0,2
+2024-03-16,North Carolina,33,"Caramelli, Joely",-,2,0,2,3,2,0,2,0,0,0-0,0
+2024-03-16,North Carolina,35,"Sweitzer, Savannah",-,0,1,1,2,1,0,1,0,0,0-0,1
+2024-03-16,North Carolina,44,"Ward, Emma",A,2,3,5,6,3,1,1,0,0,0-0,0
+2024-03-16,North Carolina,45,"Chevarie, Bianca",D,0,0,0,0,0,4,0,1,0,0-0,3
+2024-03-16,North Carolina,49,"Baxter, Maddy",M,1,2,3,2,2,1,2,0,0,0-1,0
+2024-03-19,UAlbany,0,"Guyette, Daniella",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-19,UAlbany,1,"Adamson, Olivia",A,4,2,6,5,4,0,2,1,5,1-1,0
+2024-03-19,UAlbany,2,"Sweitzer, Delaney",GK,0,0,0,0,0,2,1,0,0,0-0,0
+2024-03-19,UAlbany,4,"Benoit, Kaci",D,0,0,0,0,0,2,0,1,0,0-0,3
+2024-03-19,UAlbany,5,"Muchnick, Emma",-,3,0,3,5,5,0,2,0,0,1-3,3
+2024-03-19,UAlbany,6,"Rowley, Payton",-,1,3,4,4,4,0,1,0,0,1-1,0
+2024-03-19,UAlbany,7,"Horvit, Ana",-,0,0,0,0,0,0,1,0,0,0-0,1
+2024-03-19,UAlbany,8,"Mashewske, Kate",M,0,0,0,0,0,1,1,0,5,0-0,1
+2024-03-19,UAlbany,9,"Basciano, Julia",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-19,UAlbany,10,"Wooters, Faith",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-19,UAlbany,12,"Goodale, Katie",D,0,0,0,2,1,4,1,3,2,0-0,3
+2024-03-19,UAlbany,15,"Smith, Natalie",M,1,0,1,3,2,1,1,0,1,0-0,0
+2024-03-19,UAlbany,16,"Vandiver, Coco",D,0,0,0,0,0,2,0,2,0,0-0,1
+2024-03-19,UAlbany,17,"Olsen, McKenzie",-,0,0,0,1,0,0,0,0,0,0-0,0
+2024-03-19,UAlbany,18,"Desimone, Carlie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-19,UAlbany,19,"Britton, Gracie",-,0,1,1,0,0,0,1,0,0,0-0,0
+2024-03-19,UAlbany,20,"Rich, Mackenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-19,UAlbany,24,"Tyrrell, Emma",A,4,2,6,7,5,3,0,0,1,0-2,0
+2024-03-19,UAlbany,25,"Blesi, Ella",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-19,UAlbany,27,"Lahah, Izzy",-,0,0,0,0,0,0,0,0,0,0-0,1
+2024-03-19,UAlbany,28,"Rode, Meghan",-,0,0,0,1,0,0,2,0,0,0-0,0
+2024-03-19,UAlbany,30,"Clark, Superia",-,0,0,0,0,0,0,0,0,1,0-0,0
+2024-03-19,UAlbany,31,"Simkins, Hallie",D,0,0,0,0,0,1,1,0,0,0-0,3
+2024-03-19,UAlbany,32,"Gentle, Gwenna",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-19,UAlbany,33,"Caramelli, Joely",-,1,1,2,3,1,2,0,0,0,0-0,2
+2024-03-19,UAlbany,34,"Bethea-Jones, Chloe",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-19,UAlbany,35,"Sweitzer, Savannah",-,0,0,0,2,1,1,0,0,0,0-1,0
+2024-03-19,UAlbany,36,"Johnston, Evan",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-19,UAlbany,44,"Ward, Emma",A,4,0,4,6,6,1,1,0,0,1-2,0
+2024-03-19,UAlbany,45,"Chevarie, Bianca",D,0,0,0,0,0,1,0,2,0,0-0,4
+2024-03-19,UAlbany,49,"Baxter, Maddy",M,2,0,2,3,3,0,0,1,0,1-1,2
+2024-03-19,UAlbany,77,"Call, Lauren",-,0,0,0,0,0,0,0,0,1,0-0,0
+2024-03-19,UAlbany,,Team,-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-23,Virginia,1,"Adamson, Olivia",A,2,2,4,8,3,0,0,0,0,0-2,1
+2024-03-23,Virginia,2,"Sweitzer, Delaney",G,0,0,0,0,0,1,1,1,0,0-0,0
+2024-03-23,Virginia,4,"Benoit, Kaci",D,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-23,Virginia,5,"Muchnick, Emma",-,0,1,1,1,1,1,1,0,1,0-1,0
+2024-03-23,Virginia,6,"Rowley, Payton",-,2,2,4,3,2,1,2,0,0,1-1,0
+2024-03-23,Virginia,8,"Mashewske, Kate",M,0,0,0,0,0,0,2,1,18,0-0,0
+2024-03-23,Virginia,12,"Goodale, Katie",D,0,1,1,0,0,1,0,1,1,0-0,0
+2024-03-23,Virginia,15,"Smith, Natalie",M,2,0,2,3,3,0,0,0,1,0-0,0
+2024-03-23,Virginia,16,"Vandiver, Coco",D,0,0,0,0,0,1,0,1,0,0-0,0
+2024-03-23,Virginia,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-23,Virginia,24,"Tyrrell, Emma",M,2,2,4,2,2,0,2,2,0,0-0,0
+2024-03-23,Virginia,30,"Clark, Superia",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-23,Virginia,31,"Simkins, Hallie",D,0,0,0,0,0,2,1,0,0,0-0,0
+2024-03-23,Virginia,33,"Caramelli, Joely",-,1,0,1,2,1,0,0,1,0,0-0,0
+2024-03-23,Virginia,35,"Sweitzer, Savannah",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-23,Virginia,44,"Ward, Emma",A,1,2,3,4,4,0,1,0,0,0-0,1
+2024-03-23,Virginia,45,"Chevarie, Bianca",D,0,0,0,0,0,5,2,3,0,0-0,0
+2024-03-23,Virginia,49,"Baxter, Maddy",M,5,0,5,7,6,1,4,1,0,0-0,2
+2024-03-23,Virginia,,Team,-,0,0,0,0,0,0,0,0,0,0-0,1
+2024-03-27,Loyola,1,"Adamson, Olivia",A,0,1,1,2,1,1,0,1,0,0-0,0
+2024-03-27,Loyola,2,"Sweitzer, Delaney",GK,0,0,0,0,0,1,1,1,0,0-0,0
+2024-03-27,Loyola,4,"Benoit, Kaci",D,0,0,0,0,0,1,1,1,0,0-0,3
+2024-03-27,Loyola,5,"Muchnick, Emma",-,0,0,0,3,3,0,2,0,2,0-1,1
+2024-03-27,Loyola,6,"Rowley, Payton",-,1,0,1,4,3,2,0,0,0,0-0,0
+2024-03-27,Loyola,8,"Mashewske, Kate",M,0,0,0,0,0,0,0,0,3,0-0,0
+2024-03-27,Loyola,9,"Basciano, Julia",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-27,Loyola,12,"Goodale, Katie",D,0,0,0,0,0,1,0,2,4,0-0,5
+2024-03-27,Loyola,15,"Smith, Natalie",M,1,0,1,4,2,0,2,1,3,0-1,0
+2024-03-27,Loyola,16,"Vandiver, Coco",D,0,0,0,0,0,3,1,2,0,0-0,1
+2024-03-27,Loyola,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-27,Loyola,24,"Tyrrell, Emma",A,6,0,6,10,6,1,2,0,0,1-1,0
+2024-03-27,Loyola,31,"Simkins, Hallie",D,0,0,0,0,0,2,0,1,0,0-0,0
+2024-03-27,Loyola,33,"Caramelli, Joely",-,0,0,0,0,0,2,1,1,0,0-0,1
+2024-03-27,Loyola,35,"Sweitzer, Savannah",-,3,0,3,5,4,0,0,0,0,1-1,0
+2024-03-27,Loyola,44,"Ward, Emma",A,4,2,6,6,6,0,0,0,0,0-0,0
+2024-03-27,Loyola,45,"Chevarie, Bianca",D,0,0,0,0,0,3,0,2,0,0-0,1
+2024-03-27,Loyola,49,"Baxter, Maddy",M,1,0,1,4,1,0,0,0,0,0-0,1
+2024-03-27,Loyola,,Team,-,0,0,0,0,0,0,0,0,0,0-0,1
+2024-03-30,Louisville,1,"Adamson, Olivia",A,4,2,6,5,4,0,1,0,0,1-1,0
+2024-03-30,Louisville,2,"Sweitzer, Delaney",GK,0,0,0,0,0,1,0,0,0,0-0,0
+2024-03-30,Louisville,3,"Banks, Ryann",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-30,Louisville,4,"Benoit, Kaci",D,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-30,Louisville,5,"Muchnick, Emma",-,0,2,2,0,0,0,1,0,0,0-0,0
+2024-03-30,Louisville,6,"Rowley, Payton",-,2,1,3,5,4,0,3,1,0,0-0,0
+2024-03-30,Louisville,7,"Horvit, Ana",-,0,0,0,0,0,1,0,0,0,0-0,0
+2024-03-30,Louisville,8,"Mashewske, Kate",M,0,0,0,0,0,0,0,0,16,0-0,2
+2024-03-30,Louisville,9,"Basciano, Julia",-,0,0,0,0,0,0,0,0,0,0-0,2
+2024-03-30,Louisville,10,"Wooters, Faith",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-30,Louisville,12,"Goodale, Katie",D,0,0,0,1,0,2,0,2,4,0-1,4
+2024-03-30,Louisville,15,"Smith, Natalie",M,2,1,3,4,2,0,3,0,2,0-0,1
+2024-03-30,Louisville,16,"Vandiver, Coco",D,0,0,0,0,0,1,0,0,0,0-0,3
+2024-03-30,Louisville,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-30,Louisville,18,"Desimone, Carlie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-30,Louisville,19,"Britton, Gracie",-,1,0,1,2,1,0,1,0,0,1-1,0
+2024-03-30,Louisville,20,"Rich, Mackenzie",-,0,0,0,0,0,1,0,0,0,0-0,0
+2024-03-30,Louisville,24,"Tyrrell, Emma",M,5,0,5,8,6,0,0,0,0,0-0,0
+2024-03-30,Louisville,25,"Blesi, Ella",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-30,Louisville,27,"Lahah, Izzy",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-30,Louisville,28,"Rode, Meghan",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-03-30,Louisville,30,"Clark, Superia",-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-03-30,Louisville,31,"Simkins, Hallie",D,0,0,0,0,0,2,2,0,0,0-0,3
+2024-03-30,Louisville,33,"Caramelli, Joely",-,0,1,1,0,0,0,0,1,0,0-0,0
+2024-03-30,Louisville,34,"Bethea-Jones, Chloe",-,0,0,0,0,0,0,0,1,0,0-0,0
+2024-03-30,Louisville,35,"Sweitzer, Savannah",-,3,0,3,5,4,1,0,0,0,0-0,1
+2024-03-30,Louisville,36,"Johnston, Evan",-,0,0,0,0,0,0,0,1,0,0-0,0
+2024-03-30,Louisville,44,"Ward, Emma",A,2,2,4,4,3,0,1,0,0,0-1,1
+2024-03-30,Louisville,45,"Chevarie, Bianca",D,0,0,0,0,0,4,0,1,0,0-0,1
+2024-03-30,Louisville,49,"Baxter, Maddy",M,3,1,4,4,3,0,2,0,0,1-1,1
+2024-03-30,Louisville,50,"Paulson, Tate",-,0,0,0,0,0,1,0,0,0,0-0,0
+2024-03-30,Louisville,77,"Call, Lauren",-,0,0,0,0,0,0,1,0,2,0-0,0
+2024-03-30,Louisville,,Team,-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-02,Cornell,0,"Guyette, Daniella",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-02,Cornell,1,"Adamson, Olivia",A,4,1,5,8,5,1,3,0,0,0-0,0
+2024-04-02,Cornell,2,"Sweitzer, Delaney",GK,0,0,0,0,0,5,0,1,0,0-0,0
+2024-04-02,Cornell,4,"Benoit, Kaci",D,0,0,0,0,0,1,0,2,0,0-0,1
+2024-04-02,Cornell,5,"Muchnick, Emma",-,3,0,3,6,3,0,2,0,3,0-0,0
+2024-04-02,Cornell,6,"Rowley, Payton",-,1,0,1,2,1,0,1,0,0,0-0,0
+2024-04-02,Cornell,7,"Horvit, Ana",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-02,Cornell,8,"Mashewske, Kate",M,0,0,0,0,0,0,2,0,12,0-0,0
+2024-04-02,Cornell,9,"Basciano, Julia",M,0,0,0,0,0,0,1,0,0,0-0,2
+2024-04-02,Cornell,16,"Vandiver, Coco",D,0,0,0,0,0,1,1,0,0,0-0,0
+2024-04-02,Cornell,17,"Olsen, McKenzie",M,0,0,0,0,0,0,0,1,0,0-0,0
+2024-04-02,Cornell,19,"Britton, Gracie",-,0,0,0,1,1,0,0,0,0,0-1,0
+2024-04-02,Cornell,24,"Tyrrell, Emma",M,4,0,4,8,7,1,1,0,3,2-3,0
+2024-04-02,Cornell,28,"Rode, Meghan",-,1,0,1,2,1,0,2,0,0,0-0,0
+2024-04-02,Cornell,30,"Clark, Superia",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-02,Cornell,31,"Simkins, Hallie",D,0,0,0,0,0,0,0,0,0,0-0,1
+2024-04-02,Cornell,33,"Caramelli, Joely",-,0,0,0,2,2,0,3,0,0,0-0,1
+2024-04-02,Cornell,34,"Bethea-Jones, Chloe",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-02,Cornell,35,"Sweitzer, Savannah",-,2,1,3,2,2,0,1,0,0,0-0,0
+2024-04-02,Cornell,44,"Ward, Emma",A,1,1,2,4,2,1,1,0,0,0-0,0
+2024-04-02,Cornell,45,"Chevarie, Bianca",D,0,0,0,1,1,1,0,1,0,0-0,1
+2024-04-02,Cornell,49,"Baxter, Maddy",M,1,0,1,2,1,0,1,1,2,0-0,1
+2024-04-02,Cornell,,Team,-,0,0,0,0,0,0,0,0,0,0-0,1
+2024-04-06,Pittsburgh,0,"Guyette, Daniella",-,0,0,0,0,0,1,2,0,0,0-0,0
+2024-04-06,Pittsburgh,1,"Adamson, Olivia",A,1,1,2,3,2,0,0,0,0,1-2,0
+2024-04-06,Pittsburgh,2,"Sweitzer, Delaney",GK,0,0,0,0,0,1,0,0,0,0-0,0
+2024-04-06,Pittsburgh,3,"Banks, Ryann",-,0,0,0,1,0,0,1,0,0,0-0,0
+2024-04-06,Pittsburgh,4,"Benoit, Kaci",D,0,0,0,0,0,1,1,0,0,0-0,0
+2024-04-06,Pittsburgh,5,"Muchnick, Emma",-,0,0,0,0,0,4,1,1,0,0-0,0
+2024-04-06,Pittsburgh,6,"Rowley, Payton",-,3,2,5,5,5,0,1,0,0,1-3,0
+2024-04-06,Pittsburgh,7,"Horvit, Ana",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-06,Pittsburgh,8,"Mashewske, Kate",M,0,0,0,0,0,0,2,0,15,0-0,4
+2024-04-06,Pittsburgh,9,"Basciano, Julia",-,0,0,0,0,0,0,0,0,0,0-0,1
+2024-04-06,Pittsburgh,10,"Wooters, Faith",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-06,Pittsburgh,12,"Goodale, Katie",D,0,0,0,0,0,0,0,2,1,0-0,0
+2024-04-06,Pittsburgh,15,"Smith, Natalie",M,3,0,3,5,4,0,0,0,1,2-2,0
+2024-04-06,Pittsburgh,16,"Vandiver, Coco",D,0,0,0,0,0,0,0,1,1,0-0,1
+2024-04-06,Pittsburgh,17,"Olsen, McKenzie",-,0,0,0,1,0,1,0,1,0,0-0,0
+2024-04-06,Pittsburgh,18,"Desimone, Carlie",-,0,0,0,1,1,0,0,0,0,0-0,0
+2024-04-06,Pittsburgh,19,"Britton, Gracie",-,0,0,0,1,0,0,0,0,0,0-1,0
+2024-04-06,Pittsburgh,20,"Rich, Mackenzie",-,0,1,1,0,0,0,1,0,0,0-0,0
+2024-04-06,Pittsburgh,24,"Tyrrell, Emma",M,6,1,7,9,6,0,1,1,0,2-3,0
+2024-04-06,Pittsburgh,25,"Blesi, Ella",-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-04-06,Pittsburgh,27,"Lahah, Izzy",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-06,Pittsburgh,28,"Rode, Meghan",-,1,0,1,1,1,0,0,0,0,0-0,0
+2024-04-06,Pittsburgh,30,"Clark, Superia",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-06,Pittsburgh,31,"Simkins, Hallie",D,0,0,0,0,0,0,0,2,0,0-0,0
+2024-04-06,Pittsburgh,33,"Caramelli, Joely",-,1,0,1,2,1,0,2,0,0,1-1,0
+2024-04-06,Pittsburgh,34,"Bethea-Jones, Chloe",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-06,Pittsburgh,35,"Sweitzer, Savannah",-,1,1,2,3,2,0,1,0,0,1-1,0
+2024-04-06,Pittsburgh,36,"Johnston, Evan",-,0,0,0,0,0,0,0,1,0,0-0,0
+2024-04-06,Pittsburgh,44,"Ward, Emma",A,0,1,1,1,0,0,0,0,0,0-0,0
+2024-04-06,Pittsburgh,45,"Chevarie, Bianca",D,0,0,0,0,0,1,0,1,0,0-0,0
+2024-04-06,Pittsburgh,49,"Baxter, Maddy",M,0,0,0,1,1,3,0,0,0,0-1,0
+2024-04-06,Pittsburgh,77,"Call, Lauren",-,0,0,0,0,0,0,0,0,1,0-0,0
+2024-04-13,Clemson,0,"Guyette, Daniella",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-13,Clemson,1,"Adamson, Olivia",A,3,1,4,5,5,0,0,0,0,2-3,2
+2024-04-13,Clemson,2,"Sweitzer, Delaney",GK,0,0,0,0,0,6,0,4,0,0-0,0
+2024-04-13,Clemson,4,"Benoit, Kaci",D,0,0,0,1,1,1,0,1,0,0-0,1
+2024-04-13,Clemson,5,"Muchnick, Emma",-,0,0,0,1,0,1,1,0,1,0-0,2
+2024-04-13,Clemson,6,"Rowley, Payton",-,4,0,4,6,5,0,2,0,0,1-1,0
+2024-04-13,Clemson,8,"Mashewske, Kate",M,0,0,0,0,0,0,1,0,10,0-0,1
+2024-04-13,Clemson,9,"Basciano, Julia",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-13,Clemson,12,"Goodale, Katie",D,0,0,0,0,0,4,1,2,4,0-0,2
+2024-04-13,Clemson,15,"Smith, Natalie",M,1,0,1,3,2,2,1,1,1,0-1,1
+2024-04-13,Clemson,16,"Vandiver, Coco",D,0,0,0,0,0,2,0,1,0,0-0,2
+2024-04-13,Clemson,17,"Olsen, McKenzie",-,0,0,0,2,2,0,0,0,0,0-1,0
+2024-04-13,Clemson,18,"Desimone, Carlie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-13,Clemson,19,"Britton, Gracie",-,0,1,1,0,0,0,0,0,0,0-0,0
+2024-04-13,Clemson,20,"Rich, Mackenzie",-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-04-13,Clemson,24,"Tyrrell, Emma",M,3,3,6,10,7,1,1,0,1,1-2,0
+2024-04-13,Clemson,31,"Simkins, Hallie",D,0,0,0,0,0,2,0,0,0,0-0,3
+2024-04-13,Clemson,33,"Caramelli, Joely",-,0,0,0,0,0,0,1,1,0,0-0,0
+2024-04-13,Clemson,35,"Sweitzer, Savannah",-,1,0,1,4,3,0,2,0,0,0-1,0
+2024-04-13,Clemson,44,"Ward, Emma",A,2,1,3,4,3,0,2,0,0,0-2,0
+2024-04-13,Clemson,45,"Chevarie, Bianca",D,0,0,0,0,0,2,1,0,0,0-0,2
+2024-04-13,Clemson,49,"Baxter, Maddy",M,1,0,1,2,1,0,0,0,0,0-1,0
+2024-04-18,Boston College,1,"Adamson, Olivia",A,3,0,3,5,3,0,1,0,0,0-0,0
+2024-04-18,Boston College,2,"Sweitzer, Delaney",G,0,0,0,0,0,1,1,2,0,0-0,0
+2024-04-18,Boston College,4,"Benoit, Kaci",D,0,0,0,0,0,1,0,1,0,0-0,1
+2024-04-18,Boston College,5,"Muchnick, Emma",-,0,1,1,2,1,0,2,0,3,0-0,0
+2024-04-18,Boston College,6,"Rowley, Payton",-,0,1,1,1,1,0,0,0,0,0-0,0
+2024-04-18,Boston College,8,"Mashewske, Kate",M,0,0,0,0,0,0,0,0,8,0-0,0
+2024-04-18,Boston College,12,"Goodale, Katie",D,0,0,0,0,0,2,1,2,2,0-0,4
+2024-04-18,Boston College,15,"Smith, Natalie",M,2,0,2,7,4,0,1,1,0,1-2,0
+2024-04-18,Boston College,16,"Vandiver, Coco",D,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-18,Boston College,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-18,Boston College,24,"Tyrrell, Emma",A,1,1,2,4,2,0,3,0,0,0-0,0
+2024-04-18,Boston College,31,"Simkins, Hallie",D,0,0,0,0,0,1,0,0,0,0-0,0
+2024-04-18,Boston College,33,"Caramelli, Joely",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-18,Boston College,35,"Sweitzer, Savannah",-,2,0,2,4,2,0,1,0,0,0-0,0
+2024-04-18,Boston College,44,"Ward, Emma",A,2,1,3,3,3,0,2,0,0,0-0,1
+2024-04-18,Boston College,45,"Chevarie, Bianca",D,0,0,0,0,0,1,0,1,1,0-0,1
+2024-04-18,Boston College,49,"Baxter, Maddy",M,0,0,0,0,0,1,3,1,0,0-0,0
+2024-04-23,Louisville,1,"Adamson, Olivia",A,1,0,1,4,2,0,2,0,0,0-1,0
+2024-04-23,Louisville,2,"Sweitzer, Delaney",G,0,0,0,0,0,3,0,0,0,0-0,0
+2024-04-23,Louisville,4,"Benoit, Kaci",D,0,0,0,0,0,2,0,0,0,0-0,1
+2024-04-23,Louisville,5,"Muchnick, Emma",-,2,0,2,4,3,1,0,1,1,1-1,1
+2024-04-23,Louisville,6,"Rowley, Payton",-,1,0,1,2,2,0,0,0,0,0-0,0
+2024-04-23,Louisville,8,"Mashewske, Kate",M,0,0,0,0,0,0,0,0,15,0-0,2
+2024-04-23,Louisville,12,"Goodale, Katie",D,0,0,0,0,0,4,2,5,1,0-0,2
+2024-04-23,Louisville,15,"Smith, Natalie",M,2,1,3,4,3,0,2,0,0,0-0,2
+2024-04-23,Louisville,16,"Vandiver, Coco",D,0,1,1,0,0,1,1,1,0,0-0,1
+2024-04-23,Louisville,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-23,Louisville,19,"Britton, Gracie",-,0,0,0,2,1,0,1,0,0,0-0,0
+2024-04-23,Louisville,24,"Tyrrell, Emma",A,4,2,6,9,7,0,0,0,0,0-2,0
+2024-04-23,Louisville,25,"Blesi, Ella",-,0,0,0,0,0,1,0,0,0,0-0,0
+2024-04-23,Louisville,31,"Simkins, Hallie",D,0,0,0,0,0,1,0,0,0,0-0,1
+2024-04-23,Louisville,33,"Caramelli, Joely",-,1,0,1,2,2,1,0,1,0,0-0,0
+2024-04-23,Louisville,35,"Sweitzer, Savannah",-,2,1,3,3,2,1,1,0,0,0-0,0
+2024-04-23,Louisville,44,"Ward, Emma",A,3,1,4,5,3,3,3,0,0,0-0,0
+2024-04-23,Louisville,45,"Chevarie, Bianca",D,0,0,0,0,0,4,1,4,0,0-0,1
+2024-04-23,Louisville,49,"Baxter, Maddy",M,1,0,1,2,1,0,0,0,0,0-0,2
+2024-04-23,Louisville,,Team,-,0,0,0,0,0,0,0,0,1,0-0,1
+2024-04-26,Virginia,0,"Guyette, Daniella",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-26,Virginia,1,"Adamson, Olivia",A,4,0,4,9,7,1,2,1,0,2-3,1
+2024-04-26,Virginia,2,"Sweitzer, Delaney",GK,0,0,0,0,0,2,0,0,0,0-0,0
+2024-04-26,Virginia,4,"Benoit, Kaci",D,0,0,0,0,0,2,0,2,0,0-0,0
+2024-04-26,Virginia,5,"Muchnick, Emma",-,1,0,1,1,1,3,2,1,1,0-0,1
+2024-04-26,Virginia,6,"Rowley, Payton",-,0,1,1,0,0,0,0,0,0,0-0,0
+2024-04-26,Virginia,8,"Mashewske, Kate",M,0,0,0,0,0,0,1,0,16,0-0,0
+2024-04-26,Virginia,12,"Goodale, Katie",D,0,0,0,0,0,0,0,2,2,0-0,0
+2024-04-26,Virginia,15,"Smith, Natalie",M,3,0,3,6,5,0,2,0,1,2-4,0
+2024-04-26,Virginia,16,"Vandiver, Coco",D,0,0,0,0,0,0,0,1,0,0-0,0
+2024-04-26,Virginia,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-26,Virginia,18,"Desimone, Carlie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-26,Virginia,19,"Britton, Gracie",-,1,0,1,1,1,0,1,0,0,0-0,0
+2024-04-26,Virginia,20,"Rich, Mackenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-26,Virginia,24,"Tyrrell, Emma",A,3,2,5,5,5,0,0,1,0,0-0,1
+2024-04-26,Virginia,31,"Simkins, Hallie",D,0,0,0,0,0,2,0,0,0,0-0,2
+2024-04-26,Virginia,33,"Caramelli, Joely",-,1,0,1,1,1,0,0,0,0,0-0,0
+2024-04-26,Virginia,35,"Sweitzer, Savannah",-,1,0,1,2,2,1,2,0,0,0-0,1
+2024-04-26,Virginia,44,"Ward, Emma",A,3,1,4,5,5,0,0,1,0,1-1,0
+2024-04-26,Virginia,45,"Chevarie, Bianca",D,0,0,0,0,0,1,1,1,0,0-0,3
+2024-04-26,Virginia,49,"Baxter, Maddy",M,2,0,2,3,2,0,0,0,0,2-2,1
+2024-04-26,Virginia,,Team,-,0,0,0,0,0,0,0,0,2,0-0,0
+2024-04-28,Boston College,1,"Adamson, Olivia",A,2,0,2,4,2,1,2,0,0,0-0,0
+2024-04-28,Boston College,2,"Sweitzer, Delaney",G,0,0,0,0,0,3,0,0,0,0-0,0
+2024-04-28,Boston College,4,"Benoit, Kaci",D,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-28,Boston College,5,"Muchnick, Emma",-,0,0,0,2,1,0,3,0,1,0-0,1
+2024-04-28,Boston College,6,"Rowley, Payton",-,0,0,0,2,0,0,0,0,0,0-1,0
+2024-04-28,Boston College,8,"Mashewske, Kate",M,0,0,0,1,1,0,1,0,12,0-0,0
+2024-04-28,Boston College,12,"Goodale, Katie",D,0,0,0,0,0,1,0,1,2,0-0,0
+2024-04-28,Boston College,15,"Smith, Natalie",M,1,0,1,1,1,0,0,0,2,0-0,4
+2024-04-28,Boston College,16,"Vandiver, Coco",D,0,0,0,0,0,0,0,1,0,0-0,1
+2024-04-28,Boston College,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-04-28,Boston College,19,"Britton, Gracie",-,1,0,1,2,1,0,0,0,0,0-0,0
+2024-04-28,Boston College,24,"Tyrrell, Emma",A,1,0,1,5,4,3,4,0,0,0-1,1
+2024-04-28,Boston College,31,"Simkins, Hallie",D,0,0,0,0,0,0,0,1,0,0-0,1
+2024-04-28,Boston College,33,"Caramelli, Joely",-,0,0,0,1,0,0,0,0,0,0-0,0
+2024-04-28,Boston College,35,"Sweitzer, Savannah",-,1,1,2,6,3,0,2,0,0,0-0,0
+2024-04-28,Boston College,44,"Ward, Emma",A,2,1,3,4,3,0,0,0,0,1-1,0
+2024-04-28,Boston College,45,"Chevarie, Bianca",D,0,0,0,0,0,0,0,0,1,0-0,1
+2024-04-28,Boston College,49,"Baxter, Maddy",M,0,0,0,3,2,0,0,1,0,0-1,0
+2024-04-28,Boston College,,Team,-,0,0,0,0,0,0,1,0,0,0-0,0
+2024-05-12,Stony Brook,1,"Adamson, Olivia",A,3,3,6,5,4,1,3,0,0,1-1,1
+2024-05-12,Stony Brook,2,"Sweitzer, Delaney",GK,0,0,0,0,0,2,0,0,0,0-0,0
+2024-05-12,Stony Brook,4,"Benoit, Kaci",D,0,0,0,0,0,1,1,0,0,0-0,0
+2024-05-12,Stony Brook,5,"Muchnick, Emma",-,1,1,2,1,1,1,2,0,0,0-0,1
+2024-05-12,Stony Brook,8,"Mashewske, Kate",M,0,0,0,0,0,0,1,0,20,0-0,4
+2024-05-12,Stony Brook,12,"Goodale, Katie",D,0,0,0,0,0,2,0,1,2,0-0,3
+2024-05-12,Stony Brook,15,"Smith, Natalie",M,1,1,2,2,2,1,2,0,0,1-2,2
+2024-05-12,Stony Brook,16,"Vandiver, Coco",D,0,0,0,1,0,2,0,2,0,0-0,2
+2024-05-12,Stony Brook,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-05-12,Stony Brook,19,"Britton, Gracie",-,2,1,3,3,3,1,0,0,0,0-0,0
+2024-05-12,Stony Brook,24,"Tyrrell, Emma",A,5,1,6,8,7,1,3,0,0,1-1,0
+2024-05-12,Stony Brook,31,"Simkins, Hallie",D,0,0,0,0,0,1,0,1,0,0-0,6
+2024-05-12,Stony Brook,33,"Caramelli, Joely",-,1,0,1,2,2,2,0,0,0,1-1,3
+2024-05-12,Stony Brook,35,"Sweitzer, Savannah",-,0,1,1,1,1,2,1,0,0,0-1,0
+2024-05-12,Stony Brook,44,"Ward, Emma",A,1,2,3,1,1,0,2,0,0,0-0,0
+2024-05-12,Stony Brook,45,"Chevarie, Bianca",D,0,0,0,0,0,2,0,1,0,0-0,3
+2024-05-12,Stony Brook,49,"Baxter, Maddy",M,1,1,2,4,2,0,1,1,0,0-1,4
+2024-05-12,Stony Brook,,Team,-,0,0,0,0,0,0,0,0,0,0-0,1
+2024-05-16,Yale,1,"Adamson, Olivia",A,3,0,3,7,5,0,1,0,0,1-1,0
+2024-05-16,Yale,2,"Sweitzer, Delaney",GK,0,0,0,0,0,4,0,2,0,0-0,0
+2024-05-16,Yale,4,"Benoit, Kaci",D,0,0,0,1,0,1,0,1,1,0-0,3
+2024-05-16,Yale,5,"Muchnick, Emma",-,0,2,2,1,0,0,0,0,0,0-0,0
+2024-05-16,Yale,8,"Mashewske, Kate",M,0,0,0,0,0,0,1,0,15,0-0,3
+2024-05-16,Yale,12,"Goodale, Katie",D,0,0,0,1,0,1,1,0,1,0-0,4
+2024-05-16,Yale,15,"Smith, Natalie",M,2,2,4,4,4,2,0,1,5,0-2,2
+2024-05-16,Yale,16,"Vandiver, Coco",D,0,0,0,0,0,0,0,1,0,0-0,0
+2024-05-16,Yale,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-05-16,Yale,19,"Britton, Gracie",-,0,1,1,0,0,0,2,0,0,0-0,0
+2024-05-16,Yale,24,"Tyrrell, Emma",M,7,2,9,8,8,1,2,0,0,2-3,1
+2024-05-16,Yale,25,"Blesi, Ella",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-05-16,Yale,27,"Lahah, Izzy",-,0,0,0,0,0,0,0,0,0,0-0,0
+2024-05-16,Yale,31,"Simkins, Hallie",D,0,0,0,0,0,1,0,0,0,0-0,2
+2024-05-16,Yale,33,"Caramelli, Joely",-,1,1,2,3,2,0,1,0,0,0-1,3
+2024-05-16,Yale,35,"Sweitzer, Savannah",-,3,0,3,4,4,2,0,0,0,0-0,1
+2024-05-16,Yale,44,"Ward, Emma",A,3,4,7,4,3,1,2,0,0,0-0,0
+2024-05-16,Yale,45,"Chevarie, Bianca",D,0,0,0,0,0,0,0,1,0,0-0,2
+2024-05-16,Yale,49,"Baxter, Maddy",M,0,0,0,2,2,2,2,0,0,0-0,1
+2024-05-16,Yale,,Team,-,0,0,0,0,0,0,0,0,0,0-0,2
+2024-05-24,Boston College,1,"Adamson, Olivia",A,1,1,2,3,1,0,0,0,0,0-0,0
+2024-05-24,Boston College,2,"Sweitzer, Delaney",GK,0,0,0,0,0,2,2,2,0,0-0,0
+2024-05-24,Boston College,4,"Benoit, Kaci",D,0,0,0,0,0,1,0,0,0,0-0,1
+2024-05-24,Boston College,5,"Muchnick, Emma",-,0,0,0,1,1,1,2,0,0,0-0,0
+2024-05-24,Boston College,8,"Mashewske, Kate",M,0,0,0,0,0,0,4,0,14,0-0,0
+2024-05-24,Boston College,12,"Goodale, Katie",D,0,0,0,0,0,2,0,1,1,0-0,1
+2024-05-24,Boston College,15,"Smith, Natalie",M,2,1,3,3,3,1,0,1,0,0-0,1
+2024-05-24,Boston College,16,"Vandiver, Coco",D,0,0,0,0,0,1,0,2,0,0-0,1
+2024-05-24,Boston College,17,"Olsen, McKenzie",-,0,0,0,0,0,0,0,0,0,0-0,1
+2024-05-24,Boston College,19,"Britton, Gracie",-,1,0,1,2,1,0,1,0,0,0-0,0
+2024-05-24,Boston College,24,"Tyrrell, Emma",A,0,1,1,5,3,0,3,0,0,0-0,1
+2024-05-24,Boston College,31,"Simkins, Hallie",D,0,1,1,0,0,1,1,3,0,0-0,2
+2024-05-24,Boston College,33,"Caramelli, Joely",-,0,0,0,1,1,0,0,0,0,0-0,0
+2024-05-24,Boston College,35,"Sweitzer, Savannah",-,0,0,0,3,2,0,0,0,0,0-1,1
+2024-05-24,Boston College,44,"Ward, Emma",A,2,0,2,6,4,0,2,0,0,0-1,0
+2024-05-24,Boston College,45,"Chevarie, Bianca",D,0,0,0,0,0,1,0,0,0,0-0,3
+2024-05-24,Boston College,49,"Baxter, Maddy",M,1,0,1,4,3,2,0,0,0,0-0,2
+2024-05-24,Boston College,,Team,-,0,0,0,0,0,0,2,0,0,0-0,0
