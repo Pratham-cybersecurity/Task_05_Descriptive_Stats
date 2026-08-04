@@ -1,6 +1,6 @@
 # Prompt-and-Response Log — Phase A (Baseline Factual Q&A)
 
-**Model tested:** Claude (claude.ai web interface), fresh conversation with no memory of the ground-truth work
+**Model tested:** Claude Sonnet 5 (extended thinking: High), claude.ai web interface, fresh conversation with no memory of the ground-truth work
 **Date:** 2026-08-04
 **Data provided to the model:** `player_stats.csv` and `game_log.csv` (raw files only — the ground-truth answer key was NOT shown to the model)
 
